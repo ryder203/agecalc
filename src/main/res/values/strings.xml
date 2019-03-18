@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Agecalc</string>
+    <string name="info_txt">Prüfen Sie vor dem Verkauf von Alkohol und Tabakwaren sowie dem Einlass in Bars und Clubs das Alter von Personen.</string>
+    <string name="age_sixteen">Die Person ist älter als <font fgcolor='#FFD50000'><b>16 Jahre</b></font>, wenn sie vor dem folgenden Datum geboren wurde:</string>
+    <string name="age_eighteen">Die Person ist älter als <font fgcolor='#FFF4511E'><b>18 Jahre</b></font>, wenn sie vor dem folgenden Datum geboren wurde:</string>
+</resources>
